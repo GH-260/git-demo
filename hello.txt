@@ -7,4 +7,4 @@ hello guigu! hello git! 666666
 hello guigu! hello git! 7777777
 hello guigu! hello git! 88888888
 hello guigu! hello git! 999999999
-hello guigu! hello git! 我是hot-fix
+hello guigu! hello git! hot-fix test
